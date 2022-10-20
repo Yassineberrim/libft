@@ -1,2 +1,2 @@
 # libft
-first porject of 42cursus
+this the first porject of 42cursus.
