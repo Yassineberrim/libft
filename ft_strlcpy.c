@@ -30,7 +30,7 @@ size_t	ft_strlcpy(char *dst, const char *src, size_t dstsize)
 }
 // int main()
 // {
-// 	char str[] = "Hellobaby";
+// 	char str[] = "Futureislo";
 // 	char dst[] = "DJAJA";
 // 	printf("%zu", ft_strlcpy(dst ,str, 4));
 // }
